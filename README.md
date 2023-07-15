@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
--->
 <h1 align="center">Hello 👋, I'm Mustapha </h1>
 <h3 align="center">I am a Back End Web Developer</h3>
 
 - 📫 How to reach me <br>
             Email: **iamustapha213@gmail.com** <br>
             LinkedIn: **https://www.linkedin.com/in/mustapha-ibrahim-945204262/**
+            Twitter: **https://www.twitter.com/projecthanif**
 
-- 🌱 I’m currently learning laravel framework
+- 🌱 I’m currently learning the LaraveL framework
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=projecthanif&show_icons=true&theme=radical">
@@ -61,7 +61,7 @@ style="vertical-align:top; margin: 4px">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=projecthanif&theme=radical)"/>
 </div>
 <!--
-**Blackburn0/Blackburn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**projecthanif/projecthanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
