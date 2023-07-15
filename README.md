@@ -10,13 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<style>
-                      body{
-                                 font-family:monospace;
-                      }
-           </style>
 <body>
-<h1 align="center">Hello 👋, I'm Mustapha </h1>
+<h1 align="center" style="font-family:monospace">Hello 👋, I'm Mustapha </h1>
 <h3 align="center">I am a Back End Web Developer</h3>
 
 - 📫 How to reach me <br>
