@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me <br>
             Email: **iamustapha213@gmail.com** <br>
-            LinkedIn: **https://www.linkedin.com/in/mustapha-ibrahim-945204262/**
+            LinkedIn: **https://www.linkedin.com/in/mustapha-ibrahim-945204262/** <br>
             Twitter: **https://www.twitter.com/projecthanif**
 
 - 🌱 I’m currently learning the LaraveL framework
