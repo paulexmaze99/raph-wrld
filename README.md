@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-<style>
-            *{
-                        font-family:monospace;
-            }
-</style>
+<body>
+           <style>
+                      body{
+                                 font-family:monospace;
+                      }
+           </style>
 <h1 align="center">Hello 👋, I'm Mustapha </h1>
 <h3 align="center">I am a Back End Web Developer</h3>
 
@@ -70,4 +70,6 @@ style="vertical-align:top; margin: 4px">
 **projecthanif/projecthanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
+</body>
 
