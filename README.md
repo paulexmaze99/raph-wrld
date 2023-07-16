@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 <body>
 <h1 align="center" style="font-family:monospace">Hello 👋, I'm Mustapha </h1>
-<h3 align="center">I am a Back End Web Developer</h3>
+<h3 align="center">I am a Web Developer</h3>
 
 - 📫 How to reach me <br>
             Email: **iamustapha213@gmail.com** <br>
