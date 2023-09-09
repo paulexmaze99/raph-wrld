@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mustapha<br>👀 I’m web developer focus more on PHP <br>🌱 I’m currently learning Laravel<br>💞️ I’m looking to collaborate on any project<br>📫 How to reach me, well I have attached my linkedin and twitter page
+👋 Hi, I’m Mustapha<br>👀 I’m a web developer focusing more on PHP <br>🌱 I’m currently learning Laravel<br>💞️ I’m looking to collaborate on any project<br>📫 How to reach me, well I have attached my LinkedIn and Twitter page
 
 
 ## 🌐 Socials:
