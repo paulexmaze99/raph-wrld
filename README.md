@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=projecthanif&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=projecthanif&theme=radical&hide_border=true)<br/>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projecthanif&langs_count=10&layout=compact&theme=radical)]-->(https://github.com/projecthanif/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projecthanif&langs_count=10&layout=compact&theme=radical)]
+(https://github.com/projecthanif/github-readme-stats)-->
 ## 🏆 GitHub Profile Trophy
 ![](https://github-profile-trophy.vercel.app/?username=projecthanif&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
