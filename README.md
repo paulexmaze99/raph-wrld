@@ -10,7 +10,9 @@
 
 # Main Skills #
 
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
+<a href="https://www.php.net/manual/en/index.php"><img src="https://skillicons.dev/icons?i=php" alt="php" height="100" title="PHP documentation"></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="php" height="100" title="Laravel documentation"></a>
+
 
 
 # 💻 My favorite tools and technologies
