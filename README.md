@@ -258,25 +258,6 @@ iamustapha213@gmail.com
 <!-- <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>   -->
 
 <br/>  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=projecthanif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=projecthanif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=projecthanif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=projecthanif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=projecthanif&limit=5&theme=light&combine_all_yearly_contributions=true)
-
-
-
-<br/>  
-
 <!-- # Do you want to see my past work?
 ## Trademarktoday Business Website
 <a href="https://github.com/projecthanif/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
