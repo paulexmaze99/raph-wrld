@@ -115,9 +115,6 @@
 
 <p align="center">
 
-<!--
-<a href="https://github.com/projecthanif?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
--->
 
 <a href="https://github.com/projecthanif?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=projecthanif&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@projecthanif's github-readme-stats"/></a>
 <a href="https://github.com/projecthanif?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=projecthanif&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@project's github-readme-streak-stats"/></a>
@@ -147,7 +144,7 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/018b247d-88dc-4ff4-aed9-f819ef46daf7.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@018b247d-88dc-4ff4-aed9-f819ef46daf7"><img src="https://wakatime.com/badge/user/018b247d-88dc-4ff4-aed9-f819ef46daf7.svg" alt="Total time coded since Oct 12 2023" /></a>
 <a href="https://github.com/projecthanif?tab=following"><img src="https://img.shields.io/github/stars/projecthanif?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/projecthanif?tab=followers"><img src="https://img.shields.io/github/followers/projecthanif?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
