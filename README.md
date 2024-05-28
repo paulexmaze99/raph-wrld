@@ -1,6 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
 <div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=projecthanif&label=Profile%20views&color=0e75b6&style=flat" alt="projecthanif" /> </p>
 <br/>
 - 🔭 Web developer with a year of experience building scalable, high-performance web applications<br/>
 - 🌱 Proficient in back-end technology like PHP and front-end technology<br/>
