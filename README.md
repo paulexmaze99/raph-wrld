@@ -199,15 +199,14 @@ iamustapha213@gmail.com
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [School Management System](https://github.com/projecthanif/SchoolManagementSystemUI)  
+<!-- - 🔭 I’m currently working on [School Management System](https://github.com/projecthanif/SchoolManagementSystemUI)  -->
   
 
-- 🌱 I’m currently building School Management System with Laravel.  
+<!-- - 🌱 I’m currently building School Management System with Laravel.  -->
   
 
 - ❓ Ask me about anything related to PHP and related  technologies
   
-
 <!-- - ⚡ Fun fact: I keep night shift swithed on at all times    -->
 
 
