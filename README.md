@@ -144,7 +144,7 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@018b247d-88dc-4ff4-aed9-f819ef46daf7"><img src="https://wakatime.com/badge/user/018b247d-88dc-4ff4-aed9-f819ef46daf7.svg" alt="Total time coded since Oct 12 2023" /></a>
+<a href="https://wakatime.com/@018b247d-88dc-4ff4-aed9-f819ef46daf7"><img src="https://wakatime.com/badge/user/018b247d-88dc-4ff4-aed9-f819ef46daf7.svg" alt="Total time coded since December 2022" /></a>
 <a href="https://github.com/projecthanif?tab=following"><img src="https://img.shields.io/github/stars/projecthanif?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/projecthanif?tab=followers"><img src="https://img.shields.io/github/followers/projecthanif?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
@@ -154,7 +154,7 @@
 <a href="https://gist.github.com/projecthanif"><img src="https://profile-counter.glitch.me/{projecthanif}/count.svg" alt="projecthanif :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/projecthanif/projecthanif/blob/main/assets/github-user-contribution.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
 <a href="mailto:iamustapha213@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
