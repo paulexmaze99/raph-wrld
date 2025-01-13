@@ -159,7 +159,7 @@
 # Reach out to me #
 <a href="mailto:iamustapha213@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/projecthanif"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://wa.me/09061887329"><img src="./assets/whatsapp.jpeg" alt="Whatsapp" height="50" title="Send message"></a>
+<a href="https://wa.me/+2349061887329"><img src="./assets/whatsapp.jpeg" alt="Whatsapp" height="50" title="Send message"></a>
 
 <!-- Please visit https://patience.onrender.com/ -->
 
