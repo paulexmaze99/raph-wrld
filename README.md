@@ -2,7 +2,6 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🔭 Web developer with a year of experience building scalable, high-performance web applications<br/>
 - 🌱 Proficient in back-end technology like PHP and front-end technology<br/>
 
 
@@ -50,14 +49,6 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
     </td>
   </tr>
  <tr>
@@ -157,14 +148,13 @@
 <img src="https://github.com/projecthanif/projecthanif/blob/main/assets/github-user-contribution.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
-<a href="mailto:iamustapha213@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/projecthanif"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://wa.me/+2349061887329"><img src="./assets/whatsapp.jpeg" alt="Whatsapp" height="50" title="Send message"></a>
+<a href="mailto:paulokolie99@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://wa.me/+2349033478955"><img src="./assets/whatsapp.jpeg" alt="Whatsapp" height="50" title="Send message"></a>
 
 <!-- Please visit https://patience.onrender.com/ -->
 
 To comtact me.
-iamustapha213@gmail.com
+raphwrld99@gmail.com
 
 # Welcome!
    
@@ -186,24 +176,21 @@ iamustapha213@gmail.com
 
 <!-- ✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js -->
          
-✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap
+✨ Preferred style frameworks    ✔CSS, ✔Bootstrap
          
 ✨ Database options   ✔MongoDB, ✔MySQL,
  
-✨ Payment gateway integration  ✔Paystack
         
 
 
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-<!-- - 🔭 I’m currently working on [School Management System](https://github.com/projecthanif/SchoolManagementSystemUI)  -->
   
 
-<!-- - 🌱 I’m currently building School Management System with Laravel.  -->
+<!-- - 🌱 I’m currently building a task- list app with Laravel.  -->
   
 
 - ❓ Ask me about anything related to PHP and related  technologies
